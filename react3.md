@@ -40,3 +40,4 @@ The documentation is divided into several sections:
 * [Contributing Guide](https://reactjs.org/docs/how-to-contribute.html)
 
 You can improve it by sending pull requests to [this repository](https://github.com/reactjs/reactjs.org).
+
